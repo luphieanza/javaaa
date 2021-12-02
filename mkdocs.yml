@@ -1,0 +1,8 @@
+site_name: "javaaa"
+site_description: "javaaa"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
